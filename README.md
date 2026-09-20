@@ -47,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
+## Math
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0836-rectangle-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
