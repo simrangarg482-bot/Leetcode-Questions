@@ -57,8 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0836-rectangle-overlap) |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Geometry
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0836-rectangle-overlap) |
+## Dynamic Programming
+|  |
+| ------- |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 <!---LeetCode Topics End-->
