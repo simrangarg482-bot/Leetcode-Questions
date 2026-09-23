@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0127-word-ladder) |
+| [0756-pyramid-transition-matrix](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0756-pyramid-transition-matrix) |
 | [1079-letter-tile-possibilities](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1079-letter-tile-possibilities) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0127-word-ladder) |
+| [0756-pyramid-transition-matrix](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0756-pyramid-transition-matrix) |
 | [1079-letter-tile-possibilities](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1079-letter-tile-possibilities) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0756-pyramid-transition-matrix](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0756-pyramid-transition-matrix) |
 | [1079-letter-tile-possibilities](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1079-letter-tile-possibilities) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0756-pyramid-transition-matrix](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0756-pyramid-transition-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
