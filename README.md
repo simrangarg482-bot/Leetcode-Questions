@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0127-word-ladder) |
 | [1079-letter-tile-possibilities](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1079-letter-tile-possibilities) |
+| [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0127-word-ladder) |
 | [1079-letter-tile-possibilities](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1079-letter-tile-possibilities) |
+| [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [3498-reverse-degree-of-a-string](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
@@ -102,4 +104,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1079-letter-tile-possibilities](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1079-letter-tile-possibilities) |
+| [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 <!---LeetCode Topics End-->
