@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1992-find-all-groups-of-farmland) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Depth-First Search
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0934-shortest-bridge) |
 | [1254-number-of-closed-islands](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1992-find-all-groups-of-farmland) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0934-shortest-bridge) |
 | [1254-number-of-closed-islands](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1992-find-all-groups-of-farmland) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## String
@@ -105,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1079-letter-tile-possibilities](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1079-letter-tile-possibilities) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
