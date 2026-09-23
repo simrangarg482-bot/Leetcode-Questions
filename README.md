@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1992-find-all-groups-of-farmland](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1992-find-all-groups-of-farmland) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3875-construct-uniform-parity-array-i](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Depth-First Search
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0836-rectangle-overlap) |
+| [3875-construct-uniform-parity-array-i](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Geometry
 |  |
