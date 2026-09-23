@@ -22,7 +22,7 @@ class Solution {
         while (!q.isEmpty()) {
             int size = q.size();
             buses++;
-            while (size-- > 0) {
+            while (size > 0) {
                 int stop = q.poll();
                 for (int bus : map.getOrDefault(stop, new ArrayList<>())) {
                     if (visitedBuses.contains(bus)) {
@@ -39,6 +39,7 @@ class Solution {
                         }
                     }
                 }
+                size--;
             }
         }
         return -1;
