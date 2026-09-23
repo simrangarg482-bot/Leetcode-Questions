@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0773-sliding-puzzle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0773-sliding-puzzle) |
 | [0815-bus-routes](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0815-bus-routes) |
 | [0835-image-overlap](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0835-image-overlap) |
 | [0934-shortest-bridge](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0934-shortest-bridge) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0127-word-ladder) |
+| [0773-sliding-puzzle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0773-sliding-puzzle) |
 | [0815-bus-routes](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0815-bus-routes) |
 | [0934-shortest-bridge](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0934-shortest-bridge) |
 | [1254-number-of-closed-islands](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0773-sliding-puzzle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0773-sliding-puzzle) |
 | [0835-image-overlap](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0835-image-overlap) |
 | [0934-shortest-bridge](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0934-shortest-bridge) |
 | [1254-number-of-closed-islands](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0127-word-ladder) |
+| [0773-sliding-puzzle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0773-sliding-puzzle) |
 ## Simulation
 |  |
 | ------- |
@@ -91,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0773-sliding-puzzle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0773-sliding-puzzle) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Graph Theory
@@ -106,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0773-sliding-puzzle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0773-sliding-puzzle) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Counting
 |  |
@@ -122,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0756-pyramid-transition-matrix) |
+| [0773-sliding-puzzle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0773-sliding-puzzle) |
 | [1079-letter-tile-possibilities](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1079-letter-tile-possibilities) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -152,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Heuristic Search
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0773-sliding-puzzle) |
+## A* Search
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0773-sliding-puzzle) |
 <!---LeetCode Topics End-->
