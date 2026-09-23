@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1079-letter-tile-possibilities) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [3498-reverse-degree-of-a-string](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Bidirectional Search
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1079-letter-tile-possibilities](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1079-letter-tile-possibilities) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2014-longest-subsequence-repeated-k-times) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -115,8 +118,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2014-longest-subsequence-repeated-k-times) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Two Pointers
+|  |
+| ------- |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2014-longest-subsequence-repeated-k-times) |
+## Enumeration
+|  |
+| ------- |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2014-longest-subsequence-repeated-k-times) |
 <!---LeetCode Topics End-->
