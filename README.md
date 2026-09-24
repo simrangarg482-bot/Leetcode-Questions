@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0934-shortest-bridge) |
 | [1254-number-of-closed-islands](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 | [1992-find-all-groups-of-farmland](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1992-find-all-groups-of-farmland) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0934-shortest-bridge](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0934-shortest-bridge) |
 | [1254-number-of-closed-islands](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1992-find-all-groups-of-farmland](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1992-find-all-groups-of-farmland) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0835-image-overlap) |
 | [0934-shortest-bridge](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0934-shortest-bridge) |
 | [1254-number-of-closed-islands](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1992-find-all-groups-of-farmland](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1992-find-all-groups-of-farmland) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
