@@ -32,21 +32,18 @@ class Solution {
             while (size > 0) {
                 TreeNode node = q.poll();
                 // left child
-                if (node.left != null &&
-                    !visited.contains(node.left)) {
+                if (node.left != null && !visited.contains(node.left)) {
                     visited.add(node.left);
                     q.add(node.left);
                 }
                 // right child
-                if (node.right != null &&
-                    !visited.contains(node.right)) {
+                if (node.right != null && !visited.contains(node.right)) {
                     visited.add(node.right);
                     q.add(node.right);
                 }
                 // parent
                 TreeNode par = parent.get(node);
-                if (par != null &&
-                    !visited.contains(par)) {
+                if (par != null && !visited.contains(par)) {
                     visited.add(par);
                     q.add(par);
                 }
