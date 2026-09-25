@@ -220,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2305-fair-distribution-of-cookies](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2305-fair-distribution-of-cookies) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
