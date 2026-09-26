@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 | [1992-find-all-groups-of-farmland](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1992-find-all-groups-of-farmland) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2305-fair-distribution-of-cookies](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2305-fair-distribution-of-cookies) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -270,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0139-word-break) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
