@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0773-sliding-puzzle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0773-sliding-puzzle) |
 | [0815-bus-routes](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0815-bus-routes) |
 | [0835-image-overlap](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0835-image-overlap) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0756-pyramid-transition-matrix](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0756-pyramid-transition-matrix) |
 | [0815-bus-routes](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0815-bus-routes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0273-integer-to-english-words](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0273-integer-to-english-words) |
 | [0756-pyramid-transition-matrix](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0756-pyramid-transition-matrix) |
 | [1079-letter-tile-possibilities](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1079-letter-tile-possibilities) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0773-sliding-puzzle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0773-sliding-puzzle) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
@@ -147,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0773-sliding-puzzle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0773-sliding-puzzle) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Counting
@@ -164,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0756-pyramid-transition-matrix](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0756-pyramid-transition-matrix) |
 | [0773-sliding-puzzle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0773-sliding-puzzle) |
 | [1079-letter-tile-possibilities](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1079-letter-tile-possibilities) |
@@ -259,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0140-word-break-ii) |
 ## Brute-Force Search
 |  |
 | ------- |
