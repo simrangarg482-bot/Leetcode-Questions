@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2305-fair-distribution-of-cookies](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2305-fair-distribution-of-cookies) |
+| [2596-check-knight-tour-configuration](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2596-check-knight-tour-configuration) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0934-shortest-bridge) |
 | [1254-number-of-closed-islands](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1992-find-all-groups-of-farmland) |
+| [2596-check-knight-tour-configuration](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1992-find-all-groups-of-farmland](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1992-find-all-groups-of-farmland) |
+| [2596-check-knight-tour-configuration](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2596-check-knight-tour-configuration) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1992-find-all-groups-of-farmland](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1992-find-all-groups-of-farmland) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2596-check-knight-tour-configuration](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2596-check-knight-tour-configuration) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
@@ -131,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2596-check-knight-tour-configuration](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2596-check-knight-tour-configuration) |
 | [3498-reverse-degree-of-a-string](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
