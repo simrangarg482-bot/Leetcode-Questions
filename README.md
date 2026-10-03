@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0036-valid-sudoku) |
 | [0051-n-queens](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0079-word-search) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0079-word-search) |
 | [0773-sliding-puzzle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0773-sliding-puzzle) |
 | [0835-image-overlap](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0835-image-overlap) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0036-valid-sudoku) |
 | [0127-word-ladder](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0140-word-break-ii) |
