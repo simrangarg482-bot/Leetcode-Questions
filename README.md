@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0273-integer-to-english-words](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0282-expression-add-operators) |
 | [0756-pyramid-transition-matrix](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0756-pyramid-transition-matrix) |
 | [0784-letter-case-permutation](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0784-letter-case-permutation) |
 | [0856-score-of-parentheses](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0856-score-of-parentheses) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0282-expression-add-operators) |
 | [0836-rectangle-overlap](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0836-rectangle-overlap) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0140-word-break-ii) |
+| [0282-expression-add-operators](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0282-expression-add-operators) |
 | [0756-pyramid-transition-matrix](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0756-pyramid-transition-matrix) |
 | [0773-sliding-puzzle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0773-sliding-puzzle) |
 | [0784-letter-case-permutation](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0784-letter-case-permutation) |
