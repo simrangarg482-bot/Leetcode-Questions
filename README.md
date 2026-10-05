@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0273-integer-to-english-words) |
 | [0756-pyramid-transition-matrix](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0756-pyramid-transition-matrix) |
 | [0784-letter-case-permutation](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0784-letter-case-permutation) |
+| [0856-score-of-parentheses](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0856-score-of-parentheses) |
 | [1079-letter-tile-possibilities](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1079-letter-tile-possibilities) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
