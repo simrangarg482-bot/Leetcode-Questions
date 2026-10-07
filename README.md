@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0377-combination-sum-iv](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0377-combination-sum-iv) |
+| [0473-matchsticks-to-square](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0473-matchsticks-to-square) |
 | [0773-sliding-puzzle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0773-sliding-puzzle) |
 | [0815-bus-routes](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0815-bus-routes) |
 | [0835-image-overlap](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0835-image-overlap) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0377-combination-sum-iv](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0377-combination-sum-iv) |
+| [0473-matchsticks-to-square](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0473-matchsticks-to-square) |
 | [0773-sliding-puzzle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0773-sliding-puzzle) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0282-expression-add-operators](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0301-remove-invalid-parentheses) |
+| [0473-matchsticks-to-square](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0473-matchsticks-to-square) |
 | [0756-pyramid-transition-matrix](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0756-pyramid-transition-matrix) |
 | [0773-sliding-puzzle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0773-sliding-puzzle) |
 | [0784-letter-case-permutation](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0784-letter-case-permutation) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0090-subsets-ii) |
+| [0473-matchsticks-to-square](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0473-matchsticks-to-square) |
 | [0756-pyramid-transition-matrix](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0756-pyramid-transition-matrix) |
 | [0784-letter-case-permutation](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0784-letter-case-permutation) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -303,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0473-matchsticks-to-square) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2305-fair-distribution-of-cookies](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2305-fair-distribution-of-cookies) |
 ## Linked List
