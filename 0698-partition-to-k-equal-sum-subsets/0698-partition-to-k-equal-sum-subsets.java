@@ -5,12 +5,10 @@ class Solution {
         }
         int num = nums[idx];
         for (int i = 0; i < help.length; i++) {
-            // Don't put num into a bucket if it exceeds target
             if (help[i] + num > target) {
                 continue;
             }
-            // If two buckets currently have the same sum,
-            // trying both gives the same result.
+            // If two buckets currently have the same sum, trying both gives the same result.
             if (i > 0 && help[i] == help[i - 1]) {
                 continue;
             }
