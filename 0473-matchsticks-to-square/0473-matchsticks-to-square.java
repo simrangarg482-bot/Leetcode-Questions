@@ -15,9 +15,9 @@ class Solution {
             }
             sides[i] -= stick;
             // Avoid equivalent empty-side choices
-            if (sides[i] == 0) {
-                break;
-            }
+            // if (sides[i] == 0) {
+            //     break;
+            // }
         }
         return false;
     }
