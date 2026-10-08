@@ -11,8 +11,8 @@ class Solution {
         return dp[idx] = Math.max(rob, notRob);
     }
     public int rob(int[] nums) {
-    int[] dp = new int[nums.length];
-    Arrays.fill(dp, -1);
-    return helper(0, nums, dp);
-}
+        int[] dp = new int[nums.length];
+        Arrays.fill(dp, -1);
+        return helper(0, nums, dp);
+    }
 }
