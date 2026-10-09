@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0127-word-ladder) |
+| [0279-perfect-squares](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0773-sliding-puzzle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0773-sliding-puzzle) |
 | [0815-bus-routes](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0815-bus-routes) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0836-rectangle-overlap) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0279-perfect-squares) |
 | [0377-combination-sum-iv](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0377-combination-sum-iv) |
 | [0473-matchsticks-to-square](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0473-matchsticks-to-square) |
 | [0509-fibonacci-number](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0509-fibonacci-number) |
@@ -408,4 +411,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0037-sudoku-solver) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
