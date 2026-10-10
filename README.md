@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0198-house-robber) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0091-decode-ways) |
+| [0120-triangle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0139-word-break) |
