@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0273-integer-to-english-words) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Bitmask
 |  |
