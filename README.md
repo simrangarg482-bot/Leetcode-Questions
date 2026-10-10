@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0051-n-queens) |
+| [0064-minimum-path-sum](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0090-subsets-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0037-sudoku-solver) |
+| [0064-minimum-path-sum](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0079-word-search) |
 | [0773-sliding-puzzle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0773-sliding-puzzle) |
 | [0835-image-overlap](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0835-image-overlap) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
