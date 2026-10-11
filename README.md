@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0377-combination-sum-iv) |
+| [0416-partition-equal-subset-sum](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0473-matchsticks-to-square](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0473-matchsticks-to-square) |
 | [0518-coin-change-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0377-combination-sum-iv) |
+| [0416-partition-equal-subset-sum](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0473-matchsticks-to-square](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0473-matchsticks-to-square) |
 | [0509-fibonacci-number](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0516-longest-palindromic-subsequence) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -479,4 +482,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1143-longest-common-subsequence) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
