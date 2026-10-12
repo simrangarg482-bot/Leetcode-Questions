@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0934-shortest-bridge) |
+| [1049-last-stone-weight-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1049-last-stone-weight-ii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1254-number-of-closed-islands](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0773-sliding-puzzle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0773-sliding-puzzle) |
 | [0931-minimum-falling-path-sum](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0931-minimum-falling-path-sum) |
+| [1049-last-stone-weight-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1143-longest-common-subsequence) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0518-coin-change-ii) |
+| [1049-last-stone-weight-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -486,4 +489,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
