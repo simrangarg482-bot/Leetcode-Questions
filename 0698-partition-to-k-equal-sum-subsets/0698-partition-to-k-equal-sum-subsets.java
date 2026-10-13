@@ -8,10 +8,6 @@ class Solution {
             if (help[i] + num > target) {
                 continue;
             }
-            // If two buckets currently have the same sum, trying both gives the same result.
-            if (i > 0 && help[i] == help[i - 1]) {
-                continue;
-            }
             // CHOOSE
             help[i] += num;
             if (helper(idx + 1, nums, help, target)) {
