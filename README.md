@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0221-maximal-square) |
 | [0773-sliding-puzzle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0773-sliding-puzzle) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0120-triangle) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0032-longest-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
 | [0856-score-of-parentheses](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
@@ -540,4 +544,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0337-house-robber-iii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
