@@ -10,8 +10,7 @@ class Solution {
             int remaining = solve(nums, dp, left, i) + solve(nums, dp, i, right);
             max = Math.max(max, coins + remaining);
         }
-        dp[left][right] = max;
-        return max;
+        return dp[left][right] = max;
     }
     public int maxCoins(int[] nums) {
         int n = nums.length;
