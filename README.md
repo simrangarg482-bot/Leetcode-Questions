@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [1992-find-all-groups-of-farmland](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1992-find-all-groups-of-farmland) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sliding Window
 |  |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
