@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0474-ones-and-zeroes](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0516-longest-palindromic-subsequence) |
+| [0551-student-attendance-record-i](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0551-student-attendance-record-i) |
 | [0756-pyramid-transition-matrix](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0756-pyramid-transition-matrix) |
 | [0784-letter-case-permutation](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0784-letter-case-permutation) |
 | [0856-score-of-parentheses](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0856-score-of-parentheses) |
