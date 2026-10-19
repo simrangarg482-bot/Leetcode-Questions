@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1345-jump-game-iv](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1345-jump-game-iv) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1654-minimum-jumps-to-reach-home) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1143-longest-common-subsequence) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
