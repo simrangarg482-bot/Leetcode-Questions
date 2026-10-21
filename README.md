@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0090-subsets-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0473-matchsticks-to-square](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0756-pyramid-transition-matrix) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0337-house-robber-iii) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0337-house-robber-iii) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
