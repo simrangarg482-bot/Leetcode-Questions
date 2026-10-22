@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0543-diameter-of-binary-tree) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0543-diameter-of-binary-tree) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0543-diameter-of-binary-tree) |
@@ -630,4 +633,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
