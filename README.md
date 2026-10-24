@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -661,8 +664,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
