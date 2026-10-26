@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0934-shortest-bridge](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0934-shortest-bridge) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1992-find-all-groups-of-farmland) |
 | [2596-check-knight-tour-configuration](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2596-check-knight-tour-configuration) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0815-bus-routes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0934-shortest-bridge](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0934-shortest-bridge) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1345-jump-game-iv](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1345-jump-game-iv) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0815-bus-routes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1079-letter-tile-possibilities](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1079-letter-tile-possibilities) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1345-jump-game-iv](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1345-jump-game-iv) |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -509,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -520,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2597-the-number-of-beautiful-subsets) |
