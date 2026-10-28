@@ -38,8 +38,9 @@ class Solution {
                     visited.add(curr.right);
                 }
                 TreeNode p = parent.get(curr);
-                if (p != null && visited.add(p)) {
+                if (p != null && !visited.contains(p)) {
                     q.add(p);
+                    visited.add(p);
                 }
             }
         }
