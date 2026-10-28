@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0934-shortest-bridge) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1992-find-all-groups-of-farmland) |
 | [2596-check-knight-tour-configuration](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2596-check-knight-tour-configuration) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0934-shortest-bridge](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0934-shortest-bridge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1345-jump-game-iv](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1345-jump-game-iv) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Recursion
 |  |
 | ------- |
