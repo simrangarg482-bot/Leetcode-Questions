@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1992-find-all-groups-of-farmland](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1992-find-all-groups-of-farmland) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1143-longest-common-subsequence) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Recursion
@@ -716,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
