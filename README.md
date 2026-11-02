@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0773-sliding-puzzle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0773-sliding-puzzle) |
 | [0815-bus-routes](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0815-bus-routes) |
 | [0835-image-overlap](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0835-image-overlap) |
+| [0875-koko-eating-bananas](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0875-koko-eating-bananas) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0931-minimum-falling-path-sum](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0934-shortest-bridge) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
+| [0875-koko-eating-bananas](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0875-koko-eating-bananas) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
