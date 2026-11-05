@@ -1,16 +1,15 @@
-// using bit manipulation
 class Solution {
+    private void backtrack(List<List<Integer>> result, List<Integer> temp, int [] nums, int start) {
+        result.add(new ArrayList<>(temp));
+        for(int i = start; i<nums.length; i++) {
+            temp.add(nums[i]);
+            backtrack(result, temp, nums, i+1);
+            temp.remove(temp.size()-1);
+        }
+    }
     public List<List<Integer>> subsets(int[] nums) {
-        int n = nums.length;
-        int m = (1<<n); // 2 raise to the power n
-        List<List<Integer>> ans = new ArrayList<>();
-        for(int i=0; i<m; i++) {
-            List<Integer> a = new ArrayList<>();
-            for(int j=0; j<n; j++) {
-                if((i>>j) % 2 == 1) a.add(nums[j]);
-            }
-            ans.add(a);
-        } 
-        return ans;
+        List<List<Integer>> result = new ArrayList<>();
+        backtrack(result, new ArrayList<>(), nums, 0);
+        return result;
     }
 }
