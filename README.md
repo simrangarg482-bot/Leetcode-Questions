@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1345-jump-game-iv](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1345-jump-game-iv) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2014-longest-subsequence-repeated-k-times) |
 ## Enumeration
 |  |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -587,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2597-the-number-of-beautiful-subsets) |
