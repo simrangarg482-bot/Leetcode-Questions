@@ -1,5 +1,4 @@
 class Solution {
-
     public void backtrack(int start, int n, int k, List<Integer> temp, List<List<Integer>> res) {
         
         // base case
@@ -25,9 +24,7 @@ class Solution {
     public List<List<Integer>> combine(int n, int k) {
         List<List<Integer>> res = new ArrayList<>();
         List<Integer> temp = new ArrayList<>();
-
         backtrack(1, n, k, temp, res);
-
         return res;
     }
 }
