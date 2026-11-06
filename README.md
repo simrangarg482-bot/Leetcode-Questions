@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2596-check-knight-tour-configuration](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2596-check-knight-tour-configuration) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2747-count-zero-request-servers](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2747-count-zero-request-servers](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2747-count-zero-request-servers](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2747-count-zero-request-servers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -601,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2747-count-zero-request-servers](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2747-count-zero-request-servers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Combinatorics
 |  |
