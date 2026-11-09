@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0526-beautiful-arrangement) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0526-beautiful-arrangement) |
 | [0552-student-attendance-record-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0552-student-attendance-record-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0473-matchsticks-to-square](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0473-matchsticks-to-square) |
+| [0526-beautiful-arrangement](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0756-pyramid-transition-matrix) |
 | [0773-sliding-puzzle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0773-sliding-puzzle) |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0473-matchsticks-to-square](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0473-matchsticks-to-square) |
+| [0526-beautiful-arrangement](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0756-pyramid-transition-matrix) |
 | [0784-letter-case-permutation](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0784-letter-case-permutation) |
@@ -615,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0473-matchsticks-to-square) |
+| [0526-beautiful-arrangement](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
