@@ -1,31 +1,53 @@
 class Solution {
-    public boolean helper(int i, int r, int c, char[][] board, String word, boolean[][] visited) {
+    public boolean backtrack(char [][] board, String word, int idx, int i, int j, boolean [][] visited) {
         int m = board.length;
         int n = board[0].length;
-        if(r >= m || c >= n || r < 0 || c < 0 || visited[r][c] || board[r][c] != word.charAt(i)) {
-            return false;
-        }
-        if(i == word.length() - 1) {
+        if(idx == word.length()) {
             return true;
         }
-        visited[r][c] = true;
-        if(helper(i + 1, r + 1, c, board, word, visited)) return true;
-        if(helper(i + 1, r, c + 1, board, word, visited)) return true;
-        if(helper(i + 1, r - 1, c, board, word, visited)) return true;
-        if(helper(i + 1, r, c - 1, board, word, visited)) return true;
-        visited[r][c] = false;
+        char ch = word.charAt(idx);
+        if(i - 1 >= 0 && !visited[i-1][j] && board[i-1][j] == ch) {
+            visited[i-1][j] = true;
+            if(backtrack(board, word, idx+1, i-1, j, visited)) {
+                return true;
+            }
+            visited[i-1][j] = false;
+        }
+        if(j - 1 >= 0 && !visited[i][j-1] && board[i][j-1] == ch) {
+            visited[i][j-1] = true;
+            if(backtrack(board, word, idx+1, i, j-1, visited)) {
+                return true;
+            }
+            visited[i][j-1] = false;
+        }
+        if(i + 1 < m && !visited[i+1][j] && board[i+1][j] == ch) {
+            visited[i+1][j] = true;
+            if(backtrack(board, word, idx+1, i+1, j, visited)) {
+                return true;
+            }
+            visited[i+1][j] = false;
+        }
+        if(j + 1 < n && !visited[i][j+1] && board[i][j+1] == ch) {
+            visited[i][j+1] = true;
+            if(backtrack(board, word, idx+1, i, j+1, visited)) {
+                return true;
+            }
+            visited[i][j+1] = false;
+        }
         return false;
     }
     public boolean exist(char[][] board, String word) {
         int m = board.length;
         int n = board[0].length;
-        boolean[][] visited = new boolean[m][n];
-        for(int i = 0; i < m; i++) {
-            for(int j = 0; j < n; j++) {
+        boolean [][] visited = new boolean[m][n];
+        for(int i=0; i<m; i++) {
+            for(int j=0; j<n; j++) {
                 if(board[i][j] == word.charAt(0)) {
-                    if(helper(0, i, j, board, word, visited)) {
+                    visited[i][j] = true;
+                    if(backtrack(board, word, 1, i, j, visited)) {
                         return true;
                     }
+                    visited[i][j] = false;
                 }
             }
         }
