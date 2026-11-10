@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0931-minimum-falling-path-sum](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0934-shortest-bridge) |
+| [0990-satisfiability-of-equality-equations](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1049-last-stone-weight-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1049-last-stone-weight-ii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0684-redundant-connection) |
+| [0990-satisfiability-of-equality-equations](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1254-number-of-closed-islands](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0784-letter-case-permutation) |
 | [0856-score-of-parentheses](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0990-satisfiability-of-equality-equations](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1021-remove-outermost-parentheses](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1079-letter-tile-possibilities](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1079-letter-tile-possibilities) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0684-redundant-connection) |
+| [0990-satisfiability-of-equality-equations](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
