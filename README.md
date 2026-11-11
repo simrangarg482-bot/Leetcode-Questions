@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [1992-find-all-groups-of-farmland](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1992-find-all-groups-of-farmland) |
+| [2050-parallel-courses-iii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2050-parallel-courses-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
+| [2050-parallel-courses-iii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2050-parallel-courses-iii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2305-fair-distribution-of-cookies](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2305-fair-distribution-of-cookies) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2050-parallel-courses-iii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2050-parallel-courses-iii) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Topological Sort
 |  |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0802-find-eventual-safe-states) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2050-parallel-courses-iii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2050-parallel-courses-iii) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Memoization
 |  |
@@ -450,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2050-parallel-courses-iii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2050-parallel-courses-iii) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Backtracking
 |  |
