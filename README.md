@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1254-number-of-closed-islands](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0934-shortest-bridge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1254-number-of-closed-islands](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0990-satisfiability-of-equality-equations) |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0802-find-eventual-safe-states) |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Memoization
@@ -443,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0207-course-schedule) |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
