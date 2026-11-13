@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0526-beautiful-arrangement) |
+| [0542-01-matrix](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0322-coin-change) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0684-redundant-connection) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0221-maximal-square) |
+| [0542-01-matrix](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0542-01-matrix) |
 | [0773-sliding-puzzle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0773-sliding-puzzle) |
 | [0835-image-overlap](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0931-minimum-falling-path-sum) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0526-beautiful-arrangement) |
+| [0542-01-matrix](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0542-01-matrix) |
 | [0552-student-attendance-record-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0552-student-attendance-record-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
