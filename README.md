@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0773-sliding-puzzle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0773-sliding-puzzle) |
 | [0815-bus-routes](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0815-bus-routes) |
 | [0835-image-overlap](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0835-image-overlap) |
+| [0851-loud-and-rich](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0851-loud-and-rich) |
 | [0875-koko-eating-bananas](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0875-koko-eating-bananas) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0931-minimum-falling-path-sum](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0931-minimum-falling-path-sum) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0802-find-eventual-safe-states) |
+| [0851-loud-and-rich](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0851-loud-and-rich) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0886-possible-bipartition](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0886-possible-bipartition) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0802-find-eventual-safe-states) |
+| [0851-loud-and-rich](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0851-loud-and-rich) |
 | [0886-possible-bipartition](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0990-satisfiability-of-equality-equations) |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0802-find-eventual-safe-states) |
+| [0851-loud-and-rich](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0851-loud-and-rich) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2050-parallel-courses-iii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2050-parallel-courses-iii) |
@@ -455,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0207-course-schedule) |
+| [0851-loud-and-rich](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0851-loud-and-rich) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
