@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0721-accounts-merge) |
+| [0743-network-delay-time](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0851-loud-and-rich) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0721-accounts-merge) |
+| [0743-network-delay-time](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0743-network-delay-time) |
 | [0773-sliding-puzzle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0773-sliding-puzzle) |
 | [0785-is-graph-bipartite](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0802-find-eventual-safe-states) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0851-loud-and-rich) |
@@ -702,11 +705,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0743-network-delay-time) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0743-network-delay-time) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## 0-1 BFS
 |  |
@@ -715,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0743-network-delay-time) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Trie
 |  |
