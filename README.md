@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0934-shortest-bridge) |
 | [0990-satisfiability-of-equality-equations](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0990-satisfiability-of-equality-equations) |
+| [0994-rotting-oranges](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1049-last-stone-weight-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0886-possible-bipartition) |
 | [0934-shortest-bridge](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0934-shortest-bridge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0934-shortest-bridge) |
+| [0994-rotting-oranges](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
