@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1345-jump-game-iv) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1631-path-with-minimum-effort](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0836-rectangle-overlap) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2409-count-days-spent-together) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
@@ -572,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
