@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0695-max-area-of-island](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0721-accounts-merge) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0785-is-graph-bipartite) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0743-network-delay-time) |
 | [0773-sliding-puzzle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0773-sliding-puzzle) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0886-possible-bipartition) |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0695-max-area-of-island) |
 | [0773-sliding-puzzle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0773-sliding-puzzle) |
 | [0835-image-overlap](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0931-minimum-falling-path-sum) |
