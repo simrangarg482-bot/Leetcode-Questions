@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0127-word-ladder](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0279-perfect-squares) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0785-is-graph-bipartite) |
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0542-01-matrix) |
 | [0773-sliding-puzzle](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0773-sliding-puzzle) |
