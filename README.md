@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1020-number-of-enclaves) |
 | [1049-last-stone-weight-ii](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0951-flip-equivalent-binary-trees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1020-number-of-enclaves) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0934-shortest-bridge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0990-satisfiability-of-equality-equations) |
+| [1020-number-of-enclaves](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1631-path-with-minimum-effort) |
@@ -257,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/simrangarg482-bot/Leetcode-Questions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
