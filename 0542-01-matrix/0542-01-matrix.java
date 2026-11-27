@@ -4,14 +4,12 @@ class Solution {
         int rows = mat.length;
         int cols = mat[0].length; 
         int [][] result = new int[rows][cols];
-
         // initialize the result matrix with the maximum values (as we said, fill the result matrix with infinite first) 
         for(int i=0; i<rows; i++) {
             for(int j=0; j<cols; j++) {
                 result[i][j] = Integer.MAX_VALUE;
             }
         }
-
         // first pass: top-left to bottom-right 
         for(int i=0; i<rows; i++) {
             for(int j=0; j<cols; j++) {
