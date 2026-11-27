@@ -13,7 +13,7 @@ class Solution {
                 }
             }
         }
-        // 0/1 Knapsack
+        // 0/1 Knapsack 
         int[] dp = new int[budget + 1];
         for(int i = 0; i < n; i++) {
             int price = items[i][1];
