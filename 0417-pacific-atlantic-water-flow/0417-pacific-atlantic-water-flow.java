@@ -27,26 +27,20 @@ class Solution {
         // Pacific Ocean
         // Top row
         for (int j = 0; j < n; j++) {
-            dfs(heights, 0, j, heights[0][j],
-                pacificVisited);
+            dfs(heights, 0, j, heights[0][j], pacificVisited);
         }
         // Left column
         for (int i = 0; i < m; i++) {
-            dfs(heights, i, 0, heights[i][0],
-                pacificVisited);
+            dfs(heights, i, 0, heights[i][0], pacificVisited);
         }
         // Atlantic Ocean
         // Bottom row
         for (int j = 0; j < n; j++) {
-            dfs(heights, m - 1, j,
-                heights[m - 1][j],
-                atlanticVisited);
+            dfs(heights, m - 1, j, heights[m - 1][j], atlanticVisited);
         }
         // Right column
         for (int i = 0; i < m; i++) {
-            dfs(heights, i, n - 1,
-                heights[i][n - 1],
-                atlanticVisited);
+            dfs(heights, i, n - 1, heights[i][n - 1], atlanticVisited);
         }
         // Cells that can reach BOTH oceans
         for (int i = 0; i < m; i++) {
