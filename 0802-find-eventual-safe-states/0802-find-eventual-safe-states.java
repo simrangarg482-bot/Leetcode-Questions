@@ -1,4 +1,4 @@
-// basically, jo nodes cycle form kr rahe h, vo terminal nodes nahi h and thereby not a safe node so we can find those nodes which are not forming cycle by topological sort but we cannot apply TS sirectly here 
+// basically, jo nodes cycle form kr rahe h, vo terminal nodes nahi h and thereby not a safe node so we can find those nodes which are not forming cycle by topological sort but we cannot apply TS directly here 
 // reverse the graph and then apply topological sort (TS) ---> ye hamne isliye kiya qki TS unn nodes ko ans me deta hai jinki indegree 0 ho, but hame vo nodes chahiye jinkin outdegree 0 ho not indegree
 class Solution {
     public List<Integer> eventualSafeNodes(int[][] graph) {
