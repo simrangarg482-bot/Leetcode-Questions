@@ -1,56 +1,39 @@
 class Solution {
-    public void dfs(int row, int col, boolean [][] vis, char [][] board) {
+    int[][] directions = {{-1, 0}, {0, 1}, {1, 0}, {0, -1}};
+    public void dfs(int r, int c, char[][] board) {
         int m = board.length;
         int n = board[0].length;
-        vis[row][col] = true;
-        // up
-        if(row - 1 >= 0 && board[row - 1][col] == 'O' && !vis[row - 1][col]) {
-            dfs(row - 1, col, vis, board);
+        if (r < 0 || r >= m || c < 0 || c >= n ||
+            board[r][c] != 'O') {
+            return;
         }
-        // right
-        if(col + 1 < n && board[row][col + 1] == 'O' && !vis[row][col + 1]) {
-            dfs(row, col + 1, vis, board);
-        }
-        // down
-        if(row + 1 < m && board[row + 1][col] == 'O' && !vis[row + 1][col]) {
-            dfs(row + 1, col, vis, board);
-        }
-        // left
-        if(col - 1 >= 0 && board[row][col - 1] == 'O' && !vis[row][col - 1]) {
-            dfs(row, col - 1, vis, board);
+        board[r][c] = '#';
+        for (int[] d : directions) {
+            int nr = r + d[0];
+            int nc = c + d[1];
+            dfs(nr, nc, board);
         }
     }
     public void solve(char[][] board) {
         int m = board.length;
         int n = board[0].length;
-        boolean [][] vis = new boolean[m][n];
-        // traverse first row and last row
-        for(int i = 0; i < n; i++) {
-            // first row
-            if(!vis[0][i] && board[0][i] == 'O') {
-                dfs(0, i, vis, board);
-            }
-            // last row
-            if(!vis[m - 1][i] && board[m - 1][i] == 'O') {
-                dfs(m - 1, i, vis, board);
-            }
+        // Start DFS from boundary O's
+        for (int i = 0; i < m; i++) {
+            dfs(i, 0, board);
+            dfs(i, n - 1, board);
         }
-        // traverse first column and last column
-        for(int i = 0; i < m; i++) {
-            // first column
-            if(!vis[i][0] && board[i][0] == 'O') {
-                dfs(i, 0, vis, board);
-            }
-            // last column
-            if(!vis[i][n - 1] && board[i][n - 1] == 'O') {
-                dfs(i, n - 1, vis, board);
-            }
+        for (int j = 0; j < n; j++) {
+            dfs(0, j, board);
+            dfs(m - 1, j, board);
         }
-        // convert surrounded O's to X
-        for(int i = 0; i < m; i++) {
-            for(int j = 0; j < n; j++) {
-                if(!vis[i][j] && board[i][j] == 'O') {
+        // Convert remaining O's to X and safe cells back to O
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (board[i][j] == 'O') {
                     board[i][j] = 'X';
+                } 
+                else if (board[i][j] == '#') {
+                    board[i][j] = 'O';
                 }
             }
         }
